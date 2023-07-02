@@ -6,3 +6,5 @@
 - ["Профессия Data-аналитик", Томский Государственный Университет](https://github.com/ArtemV0ronin/Main_page/blob/main/Воронин_Удостоверение.pdf)
 - ["Поколение Python": курс для продвинутых", Stepik](https://github.com/ArtemV0ronin/Main_page/blob/main/voronin-stepik-certificate-68343-3fd3043.pdf)
 - ["Поколение Python": курс для начинающих", Stepik](https://github.com/ArtemV0ronin/Main_page/blob/main/voronin-stepik-certificate-58852-6de1bdb.pdf)
+
+# Проекты:
