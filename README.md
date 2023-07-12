@@ -1,5 +1,5 @@
 # Резюме:
- - [Резюме](https://github.com/ArtemV0ronin/Main_page/blob/main/Voronin_Artem_CV.pdf)
+ - [Резюме](https://drive.google.com/file/d/1ocUdzfRz-AIJXgJXff7kbUMS05duf1O6/view?usp=drive_link)
 
 # Сертификаты:
 - ["Специалист по Data Science", Яндекс Практикум](https://github.com/ArtemV0ronin/Main_page/blob/main/Воронин%20Артем%20Александрович_20232ЦПДС00732.pdf) / [EN](https://github.com/ArtemV0ronin/Main_page/blob/main/Voronin%20Artem_20232ЦПДС00732.pdf)
