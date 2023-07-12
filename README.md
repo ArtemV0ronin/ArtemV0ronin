@@ -8,3 +8,14 @@
 - ["Поколение Python": курс для начинающих", Stepik](https://github.com/ArtemV0ronin/Main_page/blob/main/voronin-stepik-certificate-58852-6de1bdb.pdf)
 
 # Проекты:
+<table>
+<tr>
+  <th>Название</th>
+  <th>Описание</th>
+  <th>Тип, источник</th>
+</tr> 
+<tr>
+  <td><a href = "https://github.com/ArtemV0ronin">Оценка рынка труда IT-специалистов в России</a></td>
+  <td>Анализ рынка труда IT-специальностей. Определение востребованности специалистов и предъявляемых к ним квалификационных требований. </td>
+  <td>Pet-project на базе ТГУ</td>
+</tr>
