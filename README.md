@@ -15,7 +15,7 @@
   <th>Тип, источник</th>
 </tr> 
 <tr>
-  <td><a href = "https://github.com/ArtemV0ronin">Исследование рынка труда IT-специалистов в России</a></td>
+  <td><a href = "[https://github.com/ArtemV0ronin](https://github.com/ArtemV0ronin/analysis_of_the_IT_vacancies_market)">Исследование рынка труда IT-специалистов в России</a></td>
   <td>Анализ рынка труда IT-специальностей в России на примере интернет-рекрутмента <a href = "https://hh.ru">hh.ru</a>. Определение востребованности специалистов. Выявление актуальных предъявляемых квалификационных требований. </td>
   <td>Pet-project на базе ТГУ</td>
 </tr>
