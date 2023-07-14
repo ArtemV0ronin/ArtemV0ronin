@@ -1,5 +1,17 @@
+# Всем привет! 👋 Меня зовут Артём
+
+# Связь со мной 
+<a href="https://t.me/artem_voronin">
+    <img width="6%" src="media/logo/Telegram.svg" alt="Telegram Badge"/>
+</a>
+
 # Резюме:
  - [Резюме](https://drive.google.com/file/d/1ocUdzfRz-AIJXgJXff7kbUMS05duf1O6/view?usp=drive_link)
+
+### ⚙&nbsp;GitHub Analytics
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArtemV0ronin&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArtemV0ronin&theme=algolia)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArtemV0ronin&theme=algolia)
 
 # Курсы, обучение:
 <table>
