@@ -1,19 +1,19 @@
-# Всем привет! 👋 Меня зовут Артём
+<h3 align="center">Привет!👋 Меня зовут Артём</h3>
+<p style="margin-bottom:100px"></p>
+<h4 align="center">Data Science / Machine Learning engineer</h4>
 
-# Связь со мной 
+### Обо мне
+Я начинающий Data Science / Machine Learning инженер. Заинтересовался сферой IT в 2021г и начал самостоятельно изучать Python. Затем по государственной программе прошел курс Data-аналитик от ТГУ, после которого решил углубиться в Data Science и Machine Learning. Прошел курс "Специалист по Data Science" от Яндекса, где моя выпускная работа была отмечена тимлидом в числе лучших и презентована другим студентам. До этого имел небольшой технический бэкграунд - в институте 2 года программировал на Assembler, изучал ООП на Delphi, дискретную математику и теорию вероятностей. В настоящее время продолжаю учиться и углубляться в сферу самостоятельно. Смотрю популярных DS блогеров - Валерия Бабушкина, Анатолия Карпова, Глеба Михайлова и др. Состою в ODS сообществе в слаке. Планирую осваивать Kaggle. 
+
+### Связь со мной 
 <a href="https://t.me/artem_voronin">
     <img width="6%" src="media/logo/Telegram.svg" alt="Telegram Badge"/>
 </a>
 
-# Резюме:
+### Резюме:
  - [Резюме](https://drive.google.com/file/d/1ocUdzfRz-AIJXgJXff7kbUMS05duf1O6/view?usp=drive_link)
 
-### ⚙&nbsp;GitHub Analytics
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArtemV0ronin&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArtemV0ronin&theme=algolia)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArtemV0ronin&theme=algolia)
-
-# Курсы, обучение:
+### Курсы, обучение:
 <table>
 <tr>
   <th>Название</th>
@@ -42,7 +42,7 @@
 </tr> 
 </table>
 
-# Проекты:
+### Проекты:
 <table>
 <tr>
   <th>Название</th>
@@ -60,3 +60,12 @@
  <td>Выпускной проект, Яндекс Практикум</td>
 </tr>
 </table>
+
+
+
+
+
+### ⚙&nbsp;GitHub Analytics
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArtemV0ronin&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArtemV0ronin&theme=algolia)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArtemV0ronin&theme=algolia)
