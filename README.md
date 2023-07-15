@@ -10,10 +10,10 @@
   <img src="https://github.com/ArtemV0ronin/ArtemV0ronin/assets/114174650/9352780b-bbca-425a-8f30-ee22579cdbc8" alt="Telegram" width="40"/>
 </a>
 
-### Резюме:
+### Резюме
 - [Резюме](https://drive.google.com/file/d/1ocUdzfRz-AIJXgJXff7kbUMS05duf1O6/view?usp=drive_link)
 
-### 👨‍🎓 Курсы, обучение:
+### 👨‍🎓 Курсы, обучение
 <table>
 <tr>
   <th>Название</th>
@@ -42,7 +42,7 @@
 </tr> 
 </table>
 
-### Проекты:
+### Проекты
 <table>
 <tr>
   <th>Название</th>
