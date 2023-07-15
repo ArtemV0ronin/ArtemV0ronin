@@ -23,22 +23,22 @@
 <tr>
  <td>Специалист по Data Science</td>
  <td>Яндекс Практикум</td>
- <td><a href = "https://github.com/ArtemV0ronin/Main_page/blob/main/Воронин%20Артем%20Александрович_20232ЦПДС00732.pdf">RUS</a> / <a href = "https://github.com/ArtemV0ronin/Main_page/blob/main/Voronin%20Artem_20232ЦПДС00732.pdf">EN</a> </td>
+ <td><a href = "https://github.com/ArtemV0ronin/ArtemV0ronin/blob/main/certificates/Воронин%20Артем%20Александрович_20232ЦПДС00732.pdf">RUS</a> / <a href = "https://github.com/ArtemV0ronin/ArtemV0ronin/blob/main/certificates/Voronin%20Artem_20232ЦПДС00732.pdf">EN</a> </td>
 </tr> 
  <tr>
   <td>Профессия Data-аналитик</td>
   <td>Томский Государственный Университет</td>
-  <td><a href = "https://github.com/ArtemV0ronin/Main_page/blob/main/Воронин_Удостоверение.pdf">Сертификат</a></td>
+  <td><a href = "https://github.com/ArtemV0ronin/ArtemV0ronin/blob/main/certificates/Воронин_Удостоверение.pdf">Сертификат</a></td>
 </tr> 
 <tr>
  <td>"Поколение Python": курс для продвинутых</td>
  <td>Stepik</td>
- <td><a href = "https://github.com/ArtemV0ronin/Main_page/blob/main/voronin-stepik-certificate-68343-3fd3043.pdf">Сертификат</a></td>
+ <td><a href = "https://github.com/ArtemV0ronin/ArtemV0ronin/blob/main/certificates/voronin-stepik-certificate-68343-3fd3043.pdf">Сертификат</a></td>
 </tr> 
 <tr>
  <td>"Поколение Python": курс для начинающих</td>
  <td>Stepik</td>
- <td><a href = "https://github.com/ArtemV0ronin/Main_page/blob/main/voronin-stepik-certificate-58852-6de1bdb.pdf">Сертификат</a></td>
+ <td><a href = "https://github.com/ArtemV0ronin/ArtemV0ronin/blob/main/certificates/voronin-stepik-certificate-58852-6de1bdb.pdf">Сертификат</a></td>
 </tr> 
 </table>
 
