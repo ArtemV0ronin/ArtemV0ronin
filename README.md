@@ -7,10 +7,10 @@
 
 ### Связь со мной  
 <a href="https://t.me/voronin_artem" target="_blank">
-   <img width="6%" src="media/logo/Telegram.svg" alt="Telegram Badge"/>
+   <img width="3%" src="media/logo/Telegram.svg" alt="Telegram Badge"/>
 </a>
 <a href="mailto:Darel58@yandex.ru">
-    <img width="6%" src="media/logo/Yandex_Mail_icon.png" alt="Yandex Mail"/>
+    <img width="3%" src="media/logo/Yandex_Mail_icon.png" alt="Yandex Mail"/>
 </a>
 
 ### Резюме
