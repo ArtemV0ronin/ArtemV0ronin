@@ -13,7 +13,7 @@
 
 ### Моё резюме:
 <a href="https://drive.google.com/file/d/1ocUdzfRz-AIJXgJXff7kbUMS05duf1O6/view?usp=drive_link" target="_blank">
-   <img width="6%" src="media/logo/cv.png" alt="CV"/>
+   <img width="5%" src="media/logo/cv.png" alt="CV"/>
 </a>
 
 ---
