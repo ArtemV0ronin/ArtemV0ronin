@@ -12,7 +12,7 @@
 Я начинающий Data Science / Machine Learning инженер. Заинтересовался сферой IT в 2021г и начал самостоятельно изучать Python. Затем прошел курс Data-аналитик от Томского Государственного Университета, после которого решил углубиться в Data Science и Machine Learning. Окончил курс "Специалист по Data Science" от Яндекса, где моя выпускная работа была отмечена тимлидом в числе лучших и презентована другим студентам. До этого имел небольшой технический бэкграунд - в институте 2 года программировал на Assembler, изучал ООП на Delphi, дискретную математику и теорию вероятностей. В настоящее время продолжаю учиться и углубляться в сферу самостоятельно.
 
 ### Моё резюме:
-<a href="https://drive.google.com/file/d/1ocUdzfRz-AIJXgJXff7kbUMS05duf1O6/view?usp=drive_link" target="_blank">
+<a href="https://drive.google.com/file/d/1bwV7B7z0yt-7sJ3Mv9qUDHBvOhfsGSyq/view?usp=sharing" target="_blank">
    <img width="5%" src="media/logo/cv.png" alt="CV"/>
 </a>
 
