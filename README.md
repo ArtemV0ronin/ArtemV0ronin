@@ -51,15 +51,15 @@
 <table>
 <tr>
   <th>Название</th>
+  <th>Решение</th>
   <th>Описание</th>
   <th>Результат</th>
-  <th>Решение</th>
 </tr> 
 <tr>
  <td><a href = "https://codalab.lisn.upsaclay.fr/competitions/14956?secret_key=c65d1fe0-44af-4e76-b920-03b8d5be58f3">ШИФТ конкурс "Займы"</a></td>
+ <td><a href = "https://github.com/ArtemV0ronin/shift_loans">Решение</a></td>
  <td>Предсказание бинарного таргета. Задача классификации по возврату кредита.</td>
  <td> - </td>
- <td><a href = "https://github.com/ArtemV0ronin/shift_loans">Решение</a></td>
 </tr> 
 </table>
 
